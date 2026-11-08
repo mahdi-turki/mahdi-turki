@@ -36,6 +36,12 @@ I'm a computer science student who likes turning ideas into things people can ac
   <img src="https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=F05032" />
 </p>
 
+### 💻 Languages & 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,java,figma,react,nodejs,git&theme=dark" />
+</p>
+
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahdi-turki-9b7970265/)
