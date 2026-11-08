@@ -1,7 +1,7 @@
 ```js
 const mahdi = {
   role: "CS student & builder",
-  studying: "Computer Science (LSI2) @ Faculté des Sciences de Sfax 🇹🇳",
+  studying: "Computer Science (LSI3) @ Faculté des Sciences de Sfax 🇹🇳",
   mindset: "Learn it. Ship it. Fix it. Repeat.",
   fuel: ["coffee", "curiosity", "good cinematography 🎬"],
 };
