@@ -24,6 +24,19 @@ I'm a computer science student who likes turning ideas into things people can ac
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php,java,figma,git&theme=dark" />
 </p>
 
+### 🎬 Beyond Code
+
+Alongside my CS studies, I have **2 years of hands-on experience** in content creation and digital marketing. I create video content for brands and bring ideas to life from the first script to the final cut.
+
+| | |
+|---|---|
+| 🎥 **Content** | UGC & commercial videography |
+| ✍️ **Strategy** | Marketing strategy, copywriting & scripting |
+| 📱 **Social** | Social media management |
+| 📸 **Visuals** | Photography, video editing & graphic design |
+
+> 🌱 Creative by nature, curious by habit. Always exploring new tools, formats and ideas.
+
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahdi-turki-9b7970265/)
