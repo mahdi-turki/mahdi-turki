@@ -14,7 +14,6 @@ I'm a computer science student who likes turning ideas into things people can ac
 ### 🧭 Right now
 
 | | |
-|---|---|
 | 📚 **Learning** | Multimedia indexing & retrieval, web development |
 | 🎯 **Aiming for** | Full-stack skills + a real product mindset |
 
