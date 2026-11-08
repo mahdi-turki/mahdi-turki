@@ -18,11 +18,21 @@ I'm a computer science student who likes turning ideas into things people can ac
 | 📚 **Learning** | Multimedia indexing & retrieval, web development |
 | 🎯 **Aiming for** | Full-stack skills + a real product mindset |
 
-### 🧰 Toolbox
+### 💻 Languages
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=F05032" />
 </p>
 
